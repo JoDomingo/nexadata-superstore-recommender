@@ -10,7 +10,30 @@
 
 > **Problematica Inicial :** Superstore empresa global  enfrenta una creciente competencia en el mercado minorista, lo que exige una estrategia basada en datos para comprender mejor a sus clientes, productos y desempeño regional. El análisis de miles de registros de transacciones detalla pedidos, envíos y resultados financieros segmentados por categorías y regiones. El problema de negocio consiste en que la compañía no aprovecha de manera óptima su historial transaccional para perfilar las preferencias de los compradores y ofrecerles sugerencias oportunas que impulsen nuevas transacciones.
 
- 
+---
+
+## 📊 Vista previa del Dashboard Interactivo
+
+El proyecto incluye un dashboard desarrollado con Streamlit que integra análisis comercial, visualización de indicadores y un sistema de recomendación de productos.
+
+### 1. Panel Ejecutivo de Rendimiento Comercial
+
+Visualización de KPIs de ventas, ganancias, ticket promedio y órdenes, junto con análisis por categorías y países.
+
+![Panel Ejecutivo de NexaData](docs/screenshots/dashboard_01_kpis.png)
+
+### 2. Análisis Comparativo de Países
+
+Comparación de la evolución de ventas entre mercados mediante filtros interactivos y gráficos temporales.
+
+![Análisis Comparativo de Países](docs/screenshots/dashboard_02_comparacion_paises.png)
+
+### 3. Motor de Recomendación de Productos (KNN)
+
+Sistema de recomendación que permite seleccionar productos y generar propuestas comerciales basadas en similitud, ventas y rentabilidad.
+
+![Motor de Recomendación KNN](docs/screenshots/dashboard_03_recomendador.png)
+
 ---
 
 ## 👥 Equipo de Trabajo
